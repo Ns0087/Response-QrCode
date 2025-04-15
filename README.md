@@ -15,6 +15,11 @@ This is a solution to the [QR Code Component challenge on Frontend Mentor](https
 - [Author](#author)
 
 ## Overview
+The Challenge
+Users should be able to:
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
+- Scan the QR code to visit Frontend Mentor's website
 
 ### Screenshot
 
