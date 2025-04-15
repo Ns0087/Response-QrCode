@@ -58,6 +58,7 @@ I want to focus on mastering CSS Grid for more complex layouts and explore acces
 ### Useful Resources
 - MDN Web Docs - Flexbox - Great reference for Flexbox properties.
 - CSS-Tricks - Helpful articles for modern CSS techniques.
+- https://github.com/PetarR21/qr-code-component
 
 ### Author
 - Nitin Saraswat
